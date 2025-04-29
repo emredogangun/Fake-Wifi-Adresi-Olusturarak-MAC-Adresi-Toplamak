@@ -34,10 +34,10 @@ Kullanıcı giriş yapmaya çalıştığında, **kullanıcı adı, şifre, telef
 - 👀 Tüm veriler monitör üzerinden takip edildi.
 
 ### 📷 Görseller:
-- ![Sistem Tasarımı](Figure/serial_monitor.jpeg)
-- ![Sahte Portal Ekranı](Figure/sifre_unuttum.jpeg)
-- ![Sahte Portal Ekranı](Figure/giris_sayfasi.jpeg)
-- ![Sahte Portal Ekranı](Figure/giris.jpeg)
+- ![Genel Tasarım](Figure/giris.jpeg)
+- ![Instagram Giriş Ekranı](Figure/giris_sayfasi.jpeg)
+- ![Şifremi Unuttum Sayfası](Figure/sifre/unuttum.jpeg)
+- ![Aldığımız Bilgilerl Ekranı](Figure/serial_monitor.jpeg)
 
 ---
 
