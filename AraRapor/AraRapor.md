@@ -34,10 +34,26 @@ Kullanıcı giriş yapmaya çalıştığında, **kullanıcı adı, şifre, telef
 - 👀 Tüm veriler monitör üzerinden takip edildi.
 
 ### 📷 Görseller:
-- ![Genel Tasarım](Figure/giris.jpeg)
-- ![Instagram Giriş Ekranı](Figure/giris_sayfasi.jpeg)
-- ![Şifremi Unuttum Sayfası](Figure/sifre/unuttum.jpeg)
-- ![Aldığımız Bilgilerl Ekranı](Figure/serial_monitor.jpeg)
+
+<figure>
+  <img src="Figure/giris.jpeg" alt="Genel Tasarım" width="300">
+  <figcaption>Genel Tasarım</figcaption>
+</figure>
+
+<figure>
+  <img src="Figure/giris_sayfasi.jpeg" alt="Instagram Giriş Ekranı" width="300">
+  <figcaption>Instagram Giriş Ekranı</figcaption>
+</figure>
+
+<figure>
+  <img src="Figure/sifre_unuttum.jpeg" alt="Şifremi Unuttum Sayfası" width="300">
+  <figcaption>Şifremi Unuttum Sayfası</figcaption>
+</figure>
+
+<figure>
+  <img src="Figure/serial_monitor.jpeg" alt="Aldığımız Bilgiler Ekranı" width="800">
+  <figcaption>Aldığımız Bilgiler Ekranı</figcaption>
+</figure>
 
 ---
 
