@@ -59,7 +59,6 @@ Kullanıcı giriş yapmaya çalıştığında, **kullanıcı adı, şifre, telef
 
 ## ✅ 5. Elde Edilen Sonuçlar
 
-- 📡 Bağlanan cihazların **MAC** ve **IP** bilgileri başarıyla kaydedildi.
 - 🔓 Kullanıcının girdiği **kullanıcı adı ve şifre**, monitörde doğru şekilde görüntülendi.
 - 📞 **Telefon numarası alma adımı** sorunsuz şekilde çalıştı.
 - 🚫 İnternet bağlantısı olmadığı için "şifreyi sıfırla" adımı hatayla sonuçlandı – bu da senaryoya uygun şekilde ilerledi.
