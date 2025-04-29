@@ -4,7 +4,7 @@
 
 ---
 
-## 📝 2. Özet (Kısa)
+## 📝 2. Özet 
 Bu projede, **ESP8266** mikrodenetleyici kartı ile **şifresiz Wi-Fi** ağı oluşturulmuş ve bağlanan kullanıcılar otomatik olarak sahte bir **Instagram giriş** sayfasına yönlendirilmiştir.  
 Kullanıcı giriş yapmaya çalıştığında, **kullanıcı adı, şifre, telefon numarası terminal üzerinden kaydedilmektedir.  
 Şifre ne olursa olsun sistem, **şifrenin yanlış olduğunu belirterek** kullanıcıyı "şifremi unuttum" sayfasına yönlendirmekte ve **telefon numarası** istenmektedir.
