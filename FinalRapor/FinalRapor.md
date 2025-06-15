@@ -3,7 +3,7 @@
 
 ## 🧠 1. Proje Konusu
 
-📶 **ESP8266** modülü ile sahte bir Wi-Fi ağı oluşturularak, kullanıcıdan kimlik bilgileri toplanmasını sağlayan bir **Captive Portal (yakalama portalı)** sistemi geliştirilmiştir. Kullanıcı, otel temalı bir ağ üzerinden sahte bir Instagram giriş formuna yönlendirilmekte ve burada girdiği bilgiler anlık olarak **Telegram botu** aracılığıyla geliştiriciye iletilmektedir.
+📶 **ESP8266** modülü ile sahte bir Wi-Fi ağı oluşturularak, kullanıcıdan Instagram kullanıcı adı, şifre ve telefon numarası toplanmasını sağlayan bir **Captive Portal (yakalama portalı)** sistemi geliştirilmiştir. Kullanıcı, otel temalı bir ağ üzerinden sahte bir Instagram giriş formuna yönlendirilmekte ve burada girdiği bilgiler anlık olarak **Telegram botu** aracılığıyla geliştiriciye iletilmektedir.
 
 ---
 
